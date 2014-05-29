@@ -1,0 +1,6 @@
+.idea
+db/*.sqlite3
+tmp/*
+log/*
+config/database.yml
+config/secrets.yml
